@@ -16,6 +16,8 @@ public class Main {
 		
 		Dog Pete = new Dog(10);
 		Pete.toString();
+		
+		//IDEK WHAT I AM DOING
 
 	}
 
